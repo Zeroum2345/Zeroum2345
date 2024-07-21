@@ -1,4 +1,4 @@
-## Olá sou Marcus Paulo, desenvolvedor Full-Stack 👋
+## Olá sou Marcus, desenvolvedor Full-Stack 👋
 
 <br>
 
